@@ -1,7 +1,7 @@
 # Rebolab
 **2nd lab git**
-# Footbar
-**Footbar is a python library for dealing with word pluraliztion**
+# Foobar
+**Foobar is a python library for dealing with word pluraliztion**
 ## Installtion
 Use the package manager [pip](https://pip.com) to intall footbar
 ```
@@ -9,7 +9,7 @@ Use the package manager [pip](https://pip.com) to intall footbar
 ```
 ## Usage
 ```diff
-- import footbar
+- import foobar
 
 footbar.pluralize('word') 
 # returns 'word'
