@@ -13,9 +13,9 @@ Use the package manager [pip](https://pip.com) to intall footbar
 
 footbar.pluralize('word') 
 # returns 'word'
-footbar.pluralize('goose')
+foobar.pluralize('goose')
 # returns 'goose'
-footbar.singularize('phenomena')
+foobar.singularize('phenomena')
 # returns 'phenomena'
 ```
 ## Contributing
