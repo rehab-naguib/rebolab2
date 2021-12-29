@@ -7,7 +7,8 @@ use the package manager [pip](https://pypi.org/project/pip/) to install foobar
 
 > `pip install foobar`
 ## usage
-> ` diff import foobar\
+> `import foobar
+
 foobar.pluralize('word') # return 'words' 
 foobar.pluralize('goose') # returns 'geese'
 foobar.sungulrize('phonemena') #returns phenomenon
