@@ -1,5 +1,5 @@
-# rebolab
-**Second lab of git course**
+# Rebolab
+**2nd lab git**
 # Footbar
 **Footbar is a python library for dealing with word pluraliztion**
 ## Installtion
@@ -9,14 +9,14 @@ Use the package manager [pip](https://pip.com) to intall footbar
 ```
 ## Usage
 ```diff
-- import
+- import footbar
 
 footbar.pluralize('word') 
 # returns 'word'
 footbar.pluralize('goose')
 # returns 'goose'
 footbar.singularize('phenomena')
-# returns 'pjenomena'
+# returns 'phenomena'
 ```
 ## Contributing
 Pull requests are welcome for major changes, please open issue discuss whatt you would like to change.
