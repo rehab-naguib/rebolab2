@@ -8,9 +8,9 @@ use the package manager [pip](https://pypi.org/project/pip/) to install foobar
 > `pip install foobar`
 ## usage
 > `import foobar
-foobar.pluralize('word') #return 'words' 
-foobar.pluralize('goose') #returns 'geese'
-foobar.sungulrize('phonemena') #returns phenomenon
+foobar.pluralize('word') `# return 'words' `
+foobar.pluralize('goose') `#returns 'geese'`
+foobar.sungulrize('phonemena') #returns phenomenon `
 
 ## contributing
 pull requests are welcome . for major changes , please open an issue first to discuss what you 
